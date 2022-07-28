@@ -1,0 +1,1 @@
+CRUD project with Flask and SQLAlchemy
